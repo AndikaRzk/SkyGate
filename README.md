@@ -179,26 +179,33 @@ Manages seat layouts per flight, allows assigning seats to specific flights and 
 
 ## ⚙️ Installation Guide
 
-```bash
+bash
+
 # 1. Clone the repository
+
 git clone https://github.com/your-username/skygate.git
 cd skygate
 
 # 2. Install PHP and JavaScript dependencies
+
 composer install
 npm install && npm run dev
 
 # 3. Create and configure environment file
+
 cp .env.example .env
 php artisan key:generate
 
 # 4. Run database migrations and seed data
+
 php artisan migrate --seed
 
 # 5. Create symbolic link for storage (if your app uses file uploads or displays images)
+
 php artisan storage:link
 
 # 6. Start the local development server
+
 php artisan serve
 
 ---
@@ -208,15 +215,15 @@ php artisan serve
 This project is proudly developed by:
 
 ### **Collaborative Development & Design**
-- 👨‍💻 **M.Kenny Ryanta & Andika Rizky Putrahutama**
-  Both developers worked collaboratively across multiple areas of the project, including:
 
-  - **Backend Development** – API development, database design, server-side logic
-  - **Frontend & Admin Panel** – Admin panel development using **Laravel Filament**, UI/UX design, responsive layouts
-  - **Payment Gateway Integration** – Secure payment integration with **Midtrans** (Snap)
-  - **User Experience Optimization** – Streamlining the flow from ticket search to booking and payment
+-   👨‍💻 **M.Kenny Ryanta & Andika Rizky Putrahutama**
+    Both developers worked collaboratively across multiple areas of the project, including:
 
-  [GitHub: M.Kenny Ryanta](https://github.com/kenyryanta) | [GitHub: Andika Rizky Putrahutama](https://github.com/AndikaRzk)
+    -   **Backend Development** – API development, database design, server-side logic
+    -   **Frontend & Admin Panel** – Admin panel development using **Laravel Filament**, UI/UX design, responsive layouts
+    -   **Payment Gateway Integration** – Secure payment integration with **Midtrans** (Snap)
+    -   **User Experience Optimization** – Streamlining the flow from ticket search to booking and payment
+
+    [GitHub: M.Kenny Ryanta](https://github.com/kenyryanta) | [GitHub: Andika Rizky Putrahutama](https://github.com/AndikaRzk)
 
 ---
-```
