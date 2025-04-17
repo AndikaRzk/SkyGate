@@ -182,36 +182,36 @@ Manages seat layouts per flight, allows assigning seats to specific flights and 
 ---
 
 ## ⚙️ Installation Guide
-
+```
 bash
 
-# 1. Clone the repository
+1. Clone the repository
 
 git clone https://github.com/AndikaRzk/SkyGate.git
 cd skygate
 
-# 2. Install PHP and JavaScript dependencies
+2. Install PHP and JavaScript dependencies
 
 composer install
 npm install && npm run dev
 
-# 3. Create and configure environment file
+3. Create and configure environment file
 
 cp .env.example .env
 php artisan key:generate
 
-# 4. Run database migrations and seed data
+4. Run database migrations and seed data
 
 php artisan migrate --seed
 
-# 5. Create symbolic link for storage (if your app uses file uploads or displays images)
+5. Create symbolic link for storage (if your app uses file uploads or displays images)
 
 php artisan storage:link
 
-# 6. Start the local development server
+6. Start the local development server
 
 php artisan serve
-
+```
 ---
 
 ## 👨‍💻 Developers
