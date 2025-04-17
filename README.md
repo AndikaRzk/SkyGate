@@ -184,7 +184,7 @@ Manages seat layouts per flight, allows assigning seats to specific flights and 
 ---
 
 ## ⚙️ Installation Guide
-```
+
 bash
 
 # 1. Clone the repository
@@ -213,7 +213,7 @@ php artisan storage:link
 # 6. Start the local development server
 
 php artisan serve
-```
+
 ---
 
 ## 👨‍💻 Developers
