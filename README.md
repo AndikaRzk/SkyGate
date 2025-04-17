@@ -85,7 +85,7 @@ In this step, users input **personal information** for each passenger, choose th
   <img src="https://github.com/AndikaRzk/SkyGate/blob/main/public/images/Payment.png" width="45%" />
   <img src="https://github.com/AndikaRzk/SkyGate/blob/main/public/images/Payment%20Midtrans.png" width="45%" />
 </p>
-The payment page integrates the **Midtrans** service, allowing users to make secure payments via multiple methods such as credit cards, e-wallets, and bank transfers.
+The payment page integrates the  **Midtrans** service, allowing users to make secure payments via multiple methods such as credit cards, e-wallets, and bank transfers.
 
 ---
 
@@ -189,7 +189,7 @@ bash
 
 # 1. Clone the repository
 
-git clone https://github.com/your-username/skygate.git
+git clone https://github.com/AndikaRzk/SkyGate.git
 cd skygate
 
 # 2. Install PHP and JavaScript dependencies
