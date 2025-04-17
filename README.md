@@ -85,7 +85,7 @@ In this step, users input **personal information** for each passenger, choose th
   <img src="https://github.com/AndikaRzk/SkyGate/blob/main/public/images/Payment.png" width="45%" />
   <img src="https://github.com/AndikaRzk/SkyGate/blob/main/public/images/Payment%20Midtrans.png" width="45%" />
 </p>
-The payment page integrates the **Midtrans Snap** service, allowing users to make secure payments via multiple methods such as credit cards, e-wallets, and bank transfers.
+The payment page integrates the **Midtrans** service, allowing users to make secure payments via multiple methods such as credit cards, e-wallets, and bank transfers.
 
 ---
 
@@ -227,7 +227,7 @@ This project is proudly developed by:
 
     -   **Backend Development** – API development, database design, server-side logic
     -   **Frontend & Admin Panel** – Admin panel development using **Laravel Filament**, UI/UX design, responsive layouts
-    -   **Payment Gateway Integration** – Secure payment integration with **Midtrans** (Snap)
+    -   **Payment Gateway Integration** – Secure payment integration with **Midtrans**
     -   **User Experience Optimization** – Streamlining the flow from ticket search to booking and payment
 
     [GitHub: M.Kenny Ryanta](https://github.com/kenyryanta) | [GitHub: Andika Rizky Putrahutama](https://github.com/AndikaRzk)
