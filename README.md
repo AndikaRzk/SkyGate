@@ -81,10 +81,8 @@ In this step, users input **personal information** for each passenger, choose th
 
 ### 💳 Payment Page
 
-<p float="left">
-  <img src="https://github.com/AndikaRzk/SkyGate/blob/main/public/images/Payment.png" width="45%" />
-  <img src="https://github.com/AndikaRzk/SkyGate/blob/main/public/images/Payment%20Midtrans.png" width="45%" />
-</p>
+![Payment Page](https://github.com/AndikaRzk/SkyGate/blob/main/public/images/Payment.png)  
+![Payment Page](https://github.com/AndikaRzk/SkyGate/blob/main/public/images/Payment%20Midtrans.png)  
 The payment page integrates the  **Midtrans** service, allowing users to make secure payments via multiple methods such as credit cards, e-wallets, and bank transfers.
 
 ---
